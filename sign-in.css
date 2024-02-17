@@ -1,0 +1,28 @@
+
+.signin-background {
+    background-color: #ffffff;
+}
+
+.signin-header {
+    color: #126620;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.account-header {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.buttons {
+    color: #ffffff;
+}
+
+.responsive-element {
+    padding: 1.5rem;
+}
